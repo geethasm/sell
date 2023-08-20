@@ -130,6 +130,10 @@ toc:
             - service-develop-auth.md
             - service-pricing-change.md
             - service-publish.md
+            - topicgroup:
+                label: Selling deployable architectures
+                topics:
+                - service-da-support.md
 
   - navgroup:
       id: reference
